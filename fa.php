@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 
 global $_MODULE;
 $_MODULE = array();
@@ -12,4 +12,4 @@ $_MODULE['<{sn}default>sn_b4740c9e4dd0751ea682fd81d627dee2'] = 'مرچنت کد 
 $_MODULE['<{sn}default>sn_17857bb7e0e4a22fa99900af223a03f9'] = 'ذخیره کن!';
 $_MODULE['<{sn}default>sn_6585d9032a8dc4539e89237937549739'] = 'مشکلی وجود دارد!';
 $_MODULE['<{sn}default>sn_2ea624d388b73c5ad7976bbb9d758a4f'] = 'در حال انتقال ...';
-$_MODULE['<{sn}default>jppayment_a9950f28d15992aed5045f5818cdb361'] = ' پرداخت آنلاین با درگاه  درگاه آنلاین';
+$_MODULE['<{sn}default>sn_a9950f28d15992aed5045f5818cdb361'] = ' پرداخت آنلاین با درگاه  درگاه آنلاین';
